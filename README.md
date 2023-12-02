@@ -1,4 +1,4 @@
-# chatdads
+# Chat Dads
 AI-powered Father Figures on the Cardano Blockchain
 
 # Overview
